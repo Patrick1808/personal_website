@@ -1,1 +1,3 @@
-// trying to add a conflict
+
+//this is a bad conflict
+
